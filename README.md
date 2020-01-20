@@ -1,4 +1,4 @@
-# TFG
+# TFG - Redes Neuronales Generativas Antagónicas para la Estandarización de Células de Sangre Periférica
 
 
 Repositorio destinado a la observación de resultados de las transformaciones de este TFG en la carpeta Notebooks_Results_TFG/results_TFG/. En el carpeta Notebooks_Results_TFG/results_TFG/Bloque_1/ están los resultados de las transformaciones CanRuti --> Clínic.
