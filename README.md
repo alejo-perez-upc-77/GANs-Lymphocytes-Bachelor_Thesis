@@ -50,4 +50,4 @@ classification accuracy improved from 34% to 81%.
         ├───Colorization_NBS
         ├───CycleGAN_Transfo_CanRuti
         └───CycleGAN_Transfo_Clinic
-´´´            
+```            
