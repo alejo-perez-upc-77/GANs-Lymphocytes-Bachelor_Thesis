@@ -1,4 +1,4 @@
-# TFG - Generative Adversarial Networks for Peripheral Cell Blood Images Standardization
+# Generative Adversarial Networks for Peripheral Cell Blood Images Standardization
 
 Bachelor Thesis in Biomedical Engineering (Politechnic University of Catalonia)
 
