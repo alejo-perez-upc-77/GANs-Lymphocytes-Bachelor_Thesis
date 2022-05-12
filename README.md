@@ -26,3 +26,30 @@ ColorizationGAN architectures were used for the transformations.
 ResNet 18, ResNet 34, ResNet 18 with Focal Loss and ResNet 34
 with Focal Loss were used for the classifications. The
 classification accuracy improved from 34% to 81%.
+
+## Structure of the Project
+
+└───Notebooks_Results_TFG
+    ├───.ipynb_checkpoints
+    ├───Experiments_3_Classes
+    │   ├───CNN_CanRuti_Fake_Colorization
+    │   ├───CNN_CanRuti_Original 
+    │   ├───CNN_Clinic_Fine_Tuning
+    │   ├───CNN_No_Separate_Dataset_CycleGAN_Classification
+    │   │   ├───CNN_CanRuti_Fake_Cyc_15_Epoch 
+    │   │   ├───CNN_CanRuti_Fake_Cyc_200_Epoch
+    │   │   ├───CNN_CanRuti_Fake_Cyc_20_Epoch  
+    │   │   └───Experiments_Bad_Epochs
+    │   │       ├───CNN_CanRuti_Fake_Cyc_10_Epoch 
+    │   │       └───CNN_CanRuti_Fake_Cyc_25_Epoch      
+    │   └───CNN_Separate_Dataset_CycleGAN_Classification
+    │       ├───CNN_CanRuti_Fake_Cyc_Separate_200_Epoch
+    │       │  
+    │       └───CNN_CanRuti_Fake_Cyc_Separate_Optim_Epoch   
+    └───GAN_Transformation_NBS
+        ├───Colorization_NBS
+        │   
+        ├───CycleGAN_Transfo_CanRuti
+        │   
+        └───CycleGAN_Transfo_Clinic
+            
