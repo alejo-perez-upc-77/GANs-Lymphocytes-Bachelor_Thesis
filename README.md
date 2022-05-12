@@ -28,7 +28,7 @@ with Focal Loss were used for the classifications. The
 classification accuracy improved from 34% to 81%.
 
 ## Structure of the Project
-
+```bash
 └───Notebooks_Results_TFG
     ├───.ipynb_checkpoints
     ├───Experiments_3_Classes
@@ -52,4 +52,4 @@ classification accuracy improved from 34% to 81%.
         ├───CycleGAN_Transfo_CanRuti
         │   
         └───CycleGAN_Transfo_Clinic
-            
+´´´            
