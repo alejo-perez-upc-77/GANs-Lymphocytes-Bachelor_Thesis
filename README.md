@@ -48,8 +48,6 @@ classification accuracy improved from 34% to 81%.
     │       └───CNN_CanRuti_Fake_Cyc_Separate_Optim_Epoch   
     └───GAN_Transformation_NBS
         ├───Colorization_NBS
-        │   
         ├───CycleGAN_Transfo_CanRuti
-        │   
         └───CycleGAN_Transfo_Clinic
 ´´´            
