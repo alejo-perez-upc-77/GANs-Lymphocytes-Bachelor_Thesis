@@ -1,6 +1,6 @@
 # Generative Adversarial Networks for Peripheral Cell Blood Images Standardization
 
-## Bachelor Thesis in Biomedical Engineering (Politechnic University of Catalonia)
+## Bachelor's Thesis in Biomedical Engineering (Politechnic University of Catalonia)
 
 ### Abstract
 
